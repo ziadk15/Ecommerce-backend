@@ -60,9 +60,12 @@ project.postman_collection.json
 ## API Screenshots
 
 ### Authentication API
-![Sign Up](./images/auth_signUp.png)
-![Login](./images/auth_login.png)
-![Send Code](./images/auth_sendCode.png)
+![Sign Up]<img width="1920" height="937" alt="auth_signUp" src="https://github.com/user-attachments/assets/b89b1738-076d-4f08-9094-fcb3b0d58e3b" />
+
+![Login]<img width="1920" height="937" alt="auth_login" src="https://github.com/user-attachments/assets/0c6a85fc-37a8-4a57-bd08-2a9cee2bd799" />
+
+![Send Code]<img width="1920" height="937" alt="auth_sendCode" src="https://github.com/user-attachments/assets/7313da28-3fa4-41e1-8269-55c438715812" />
+
 
 ---
 
