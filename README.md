@@ -60,33 +60,33 @@ project.postman_collection.json
 ## API Screenshots
 
 ### Authentication API
-![Sign Up](images/auth_signUp.png)
-![Login](images/auth_login.png)
-![Send Code](images/auth_sendCode.png)
+![Sign Up](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/auth_signUp.png)
+![Login](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/auth_login.png)
+![Send Code](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/auth_sendCode.png)
 
 ---
 
 ### Products API
-![Create Product](images/product_CreateProduct.png)
-![Update Product](images/product_updateProduct.png)
+![Create Product](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/product_CreateProduct.png)
+![Update Product](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/product_updateProduct.png)
 
 ---
 
 ### Cart API
-![Add To Cart](images/cart_addToCart.png)
+![Add To Cart](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/cart_addToCart.png)
 
 ---
 
 ### Order API
-![Make Order](images/order_makeOrder.png)
+![Make Order](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/order_makeOrder.png)
 
 ---
 
 ### Coupon API
-![Create Coupon](images/coupon_createCoupon.png)
+![Create Coupon](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/coupon_createCoupon.png)
 
 ---
 
 ### Category API
-![Create Category](images/createCategory.png)
-![Create Category 2](images/createCategory2.png)
+![Create Category](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/createCategory.png)
+![Create Category 2](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/createCategory2.png)
