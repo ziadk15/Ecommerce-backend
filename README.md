@@ -59,25 +59,33 @@ project.postman_collection.json
 
 ## API Screenshots
 
-## API Screenshots
-
 ### Authentication API
 ![Sign Up](images/auth_signUp.png)  
 ![Login](images/auth_login.png)  
 ![Send Code](images/auth_sendCode.png)
 
+---
+
 ### Products API
 ![Create Product](images/product_CreateProduct.png)  
 ![Update Product](images/product_updateProduct.png)
 
+---
+
 ### Cart API
 ![Add To Cart](images/cart_addToCart.png)
+
+---
 
 ### Order API
 ![Make Order](images/order_makeOrder.png)
 
+---
+
 ### Coupon API
 ![Create Coupon](images/coupon_createCoupon.png)
+
+---
 
 ### Category API
 ![Create Category](images/createCategory.png)  
