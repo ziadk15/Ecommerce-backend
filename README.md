@@ -56,3 +56,29 @@ You can import the Postman collection file into Postman to test all APIs.
 
 File:
 project.postman_collection.json
+
+## API Screenshots
+
+### Authentication API
+![Auth API](images/auth_signUp.png)
+![Auth API](images/auth_login.png)
+![Auth API](images/auth_sendCode.png)
+
+### Products API
+![Products API](images/product_CreateProduct.png)
+![Products API](images/product_updateProduct.png)
+
+### Cart API
+![Cart API](images/cart_addToCart.png)
+
+### order API
+![order API](images/order_makeOrder.png)
+
+### coupon API
+![coupon API](images/coupon_createCoupon.png)
+
+### category API
+![category API](images/createCategory.png)
+![category API](images/createCategory2.png)
+
+
