@@ -57,10 +57,6 @@ You can import the Postman collection file into Postman to test all APIs.
 File:
 project.postman_collection.json
 
-## API Screenshots
-
----
-
 ### Authentication API
 
 **Sign Up**
