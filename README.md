@@ -58,6 +58,7 @@ File:
 project.postman_collection.json
 
 ## API Screenshots
+### API Screenshots
 
 ### Authentication API
 ![Sign Up](https://raw.githubusercontent.com/ziadk15/Ecommerce-backend/main/images/auth_signUp.png)
