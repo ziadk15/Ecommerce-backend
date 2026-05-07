@@ -60,7 +60,7 @@ project.postman_collection.json
 ### Authentication API
 
 **Sign Up**
-![Sign Up](https://github.com/user-attachments/assets/b89b1738-076d-4f08-9094-fcb3b0d58e3b)
+![Sign Up]<img src="https://github.com/user-attachments/assets/b89b1738-076d-4f08-9094-fcb3b0d58e3b" width="100%">
 
 **Login**
 ![Login](https://github.com/user-attachments/assets/0c6a85fc-37a8-4a57-bd08-2a9cee2bd799)
