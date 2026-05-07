@@ -60,25 +60,33 @@ project.postman_collection.json
 ## API Screenshots
 
 ### Authentication API
-![Auth API](images/auth_signUp.png)
-![Auth API](images/auth_login.png)
-![Auth API](images/auth_sendCode.png)
+![Sign Up](./images/auth_signUp.png)  
+![Login](./images/auth_login.png)  
+![Send Code](./images/auth_sendCode.png)
+
+---
 
 ### Products API
-![Products API](images/product_CreateProduct.png)
-![Products API](images/product_updateProduct.png)
+![Create Product](./images/product_CreateProduct.png)  
+![Update Product](./images/product_updateProduct.png)
+
+---
 
 ### Cart API
-![Cart API](images/cart_addToCart.png)
+![Add To Cart](./images/cart_addToCart.png)
 
-### order API
-![order API](images/order_makeOrder.png)
+---
 
-### coupon API
-![coupon API](images/coupon_createCoupon.png)
+### Order API
+![Make Order](./images/order_makeOrder.png)
 
-### category API
-![category API](images/createCategory.png)
-![category API](images/createCategory2.png)
+---
 
+### Coupon API
+![Create Coupon](./images/coupon_createCoupon.png)
 
+---
+
+### Category API
+![Create Category](./images/createCategory.png)  
+![Create Category 2](./images/createCategory2.png)
