@@ -60,14 +60,14 @@ project.postman_collection.json
 ## API Screenshots
 
 ### Authentication API
-![Sign Up](images/auth_signUp.png)  
-![Login](images/auth_login.png)  
+![Sign Up](images/auth_signUp.png)
+![Login](images/auth_login.png)
 ![Send Code](images/auth_sendCode.png)
 
 ---
 
 ### Products API
-![Create Product](images/product_CreateProduct.png)  
+![Create Product](images/product_CreateProduct.png)
 ![Update Product](images/product_updateProduct.png)
 
 ---
@@ -88,5 +88,5 @@ project.postman_collection.json
 ---
 
 ### Category API
-![Create Category](images/createCategory.png)  
+![Create Category](images/createCategory.png)
 ![Create Category 2](images/createCategory2.png)
